@@ -1,4 +1,4 @@
-# milanggittoth.github.io
+# milangtoth.github.io
 My attempt at a portfolio website
 ## Try again punk
 
